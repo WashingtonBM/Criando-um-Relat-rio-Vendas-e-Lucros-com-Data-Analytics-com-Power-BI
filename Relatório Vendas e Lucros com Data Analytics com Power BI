@@ -1,0 +1,22 @@
+Criando um Relatório Vendas e Lucros com Data Analytics com Power BI
+Objetivo do projeto:
+Criar relatório de vendas e lucros com Data Analytics, focando na experiência do usuário.
+
+Pontos considerados:
+• Positividade
+• Contraste
+• Proporção áurea
+• Segmentação dos dados
+
+Etapas do projeto:
+1. Adequou-se o relatório para a melhor experiência do usuário;
+2. Modificou-se o gráfico de área;
+3. Criou-se as páginas: 
+Top 5, Data Analytics, TOPN & Outliers e Categoria & Cluster;
+4. Ajustou-se a estilização dos visuais e das páginas;
+5.  Utilizou-se os recursos de visualizações P e R;
+6. Insira os botões de navegabilidade,
+7. Modificou-se os botões de navegabilidade a fim de destacar o focalizar e selecionar e
+8. Criou-se menus de navegabilidade em cada página.
+
+• O relatório (completo) está composto por 12 páginas.
